@@ -1,3 +1,8 @@
+## Hotfix update 9th Sept 2017
+
+###### Updates
+Harsen Castle (SMP crash)
+
 ## Initial Github release 9th Sept 2017
 
 ###### Updated
