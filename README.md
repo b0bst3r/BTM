@@ -1,9 +1,9 @@
 # BTM
-b0bst3r's Technological Marvel Minecraft 1.12.1 Mod Pack
+## b0bst3r's Technological Marvel Minecraft 1.12.1 Mod Pack
 
-This is the repository for BTM modpack written by b0bst3r.
+This is the repository for BTM modpack written by b0bst3r, it is in no way associated with Better Than Minecraft by Asie.
 
-The modpack has applied for ATLauncher status but there is currently a 2 month approval list so temporarily this pack is available on the MultiMC launcher and instructions for installing it are listed below.
+The modpack has applied for ATLauncher status but there is currently a 2 month approval waiting list so temporarily this pack is available on the MultiMC launcher and instructions for installing it are listed below.
 
 Create a new 1.12.1 instance in MultiMC
 
@@ -17,7 +17,7 @@ For example if you created an instance called BTM you would unpack the zip into 
 
 Run the package and it should add all the mods.
 
-About the Pack
+## About the Pack
 
 BTM was created with Tech in mind, but with a difference, the core mods in the pack are Better with Mods and Futurepack.  Futurepack is a rarely used mod but has been around for a while, think Thaumcraft but as a tech mod.
 
