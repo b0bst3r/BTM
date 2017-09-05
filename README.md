@@ -3,6 +3,8 @@
 
 This is the repository for BTM modpack written by b0bst3r, it is in no way associated with Better Than Minecraft by Asie.
 
+**This pack is in early alpha stages of testing - Sept 2017**
+
 The modpack has applied for ATLauncher status but there is currently a 2 month approval waiting list so temporarily this pack is available on the MultiMC launcher and instructions for installing it are listed below.
 
 Create a new 1.12.1 instance in MultiMC
