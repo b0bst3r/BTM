@@ -1,7 +1,10 @@
 ## Hotfix update 9th Sept 2017
 
 ###### Updates
-Harsen Castle (SMP crash)
+- Harsen Castle (SMP crash)
+
+###### Rollbacks
+- CraftTweaker to 4.0.3 from 4.0.4 (crash with Doggy Talents - https://github.com/ProPercivalalb/DoggyTalents/issues/54) 
 
 ## Initial Github release 9th Sept 2017
 
