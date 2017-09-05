@@ -23,7 +23,7 @@ BTM was created with Tech in mind, but with a difference, the core mods in the p
 
 Better with Mods makes everything much much harder, ores smelt to nuggets, dusts smelt to nuggets until you reach mid to end game, so mine hard and reap the rewards.
 
-Dont' get despondant if you don't reach end game in a day or 3, the idea of the pack is to stretch out end game without modifying a lot of recipes to make you grind (Better with mods does that for you :))
+Don't get despondent if you don't reach end game in a day or 3, the idea of the pack is to stretch out end game without modifying a lot of recipes to make you grind (Better with mods does that for you :))
 
 And before you ask, Draconic ores only spawn in Futurepack dimensions, so to get to draconic you literally have to finish Futurepack.
 
