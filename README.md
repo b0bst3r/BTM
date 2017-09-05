@@ -7,12 +7,12 @@ The modpack has applied for ATLauncher status but there is currently a 2 month a
 
 Create a new 1.12.1 instance in MultiMC
 
-Add in latest Forge
-
 Run your instance once and then exit Minecraft back to the launcher (this creates all the necessary folders and files).
 
-Download the package here 
+Download the package here https://www.dropbox.com/s/tssn31t1nvjm0jb/BTM_MMC_Install.zip?dl=1
 
-Unzip the package into the instance folder over writing everything
+Unzip the package into the instance folder over writing everything.
+
+For example if you created an instance called BTM you would unpack the zip into MultiMC\instances\BTM where you see the minecraft folder.
 
 Run the package and it should add all the mods.
