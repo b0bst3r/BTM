@@ -1,3 +1,24 @@
+## Update 11th Sept 2017
+
+###### Updates
+- Better Than Mods
+- JEI
+- Forestry
+- Journeymap
+- Dark Utils
+- Harshen Castle
+- Trash Slot
+
+###### Added
+- ArchitectureCraft
+
+###### Removed
+- Reptile Mod
+
+###### Rolled back
+
+- Craft Tweaker to 4.0.1 (broken smelting recipes)
+
 ## Hotfix update 9th Sept 2017
 
 ###### Updates
