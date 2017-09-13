@@ -1,3 +1,23 @@
+## Update 13th Sept 2017
+
+###### Updates
+- ImmersiveTech
+- Futurepack
+- Harshen Castle
+- Pam's HarvestCraft
+- Draconic Evolution
+- Brandon's Core
+
+###### Added
+- Mousetweaks
+- Tomb Many Graves 2
+
+###### Removed
+- Gravemod
+
+###### Scripts
+- Fixed Thermal Expansion machine frame recipe (te.zs)
+
 ## Update 11th Sept 2017
 
 ###### Updates
