@@ -1,3 +1,7 @@
+## Update 14th Sept 2017
+
+Updated configs and scripts 
+
 ## Update 13th Sept 2017
 
 ###### Updates
