@@ -23,7 +23,7 @@ Run the package and it should add all the mods.
 
 BTM was created with Tech in mind, but with a difference, the core mods in the pack are Better with Mods and Futurepack.  Futurepack is a rarely used mod but has been around for a while, think Thaumcraft but as a tech mod.
 
-Better with Mods makes everything much much harder, ores smelt to nuggets, dusts smelt to nuggets until you reach mid to end game, so mine hard and reap the rewards.
+Better with Mods makes everything much much harder, ores smelt to nuggets, dusts smelt to nuggets until you reach the End.  When you reach the end you'll have the infrastructure to continue with the other mods in the pack and unlock them.
 
 Don't get despondent if you don't reach end game in a day or 3, the idea of the pack is to stretch out end game without modifying a lot of recipes to make you grind (Better with mods does that for you :))
 
