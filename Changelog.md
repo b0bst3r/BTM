@@ -1,3 +1,36 @@
+## Update 18th Sept 2017
+
+###### Updates
+- Bookshelf
+- Futurepack
+- Industrial Foregoing
+- Forestry
+- EvilCraft
+- Cyclops Core
+- Tesla Core Lib
+
+###### Added
+- Custom Starting Gear
+- RTFM
+- AutoRegLib
+- Skillable
+- Little Tiles
+- Creative Core
+
+###### Configs
+- Major update of a lot of configs
+
+###### Side Effects of this update
+- Your inventory maybe wiped
+- Items you could use before the update maybe locked now and unusable
+- Currently the requirement of the unlock is not displaying in SMP (it's getting to the End).
+
+###### Scripts
+- lots of script changes
+
+###### Removed
+- Nether Portal Fix (caused suffocating in nether portal)
+
 ## Update 14th Sept 2017
 
 Updated configs and scripts 
