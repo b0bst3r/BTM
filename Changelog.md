@@ -1,3 +1,8 @@
+## Update 19th Sept 2017
+
+###### Config
+- Disabled Skillable default skills 
+
 ## Update 18th Sept 2017
 
 ###### Updates
