@@ -5,6 +5,9 @@
 - Diet Hoppers
 - MultiStorage
 
+###### Added
+- Super Sound Muffler cos Better with Mods sounds are soooooooo annoying.
+
 ## Update 19th Sept 2017
 
 ###### Config
