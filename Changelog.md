@@ -1,3 +1,10 @@
+## Update 23rd Sept 2017
+
+##### Updates
+- Actually Additions
+- Diet Hoppers
+- MultiStorage
+
 ## Update 19th Sept 2017
 
 ###### Config
