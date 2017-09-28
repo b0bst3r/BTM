@@ -1,3 +1,28 @@
+## Update 28th Sept 2017
+
+##### Updates
+- Super Sound Muffler
+- ValkyrieLib
+- Environmental Tech
+- Doggy Talents
+- Ender utils
+- JEI
+- EvilCraft
+- Cyclops Core
+- Chisel & Bits
+- Industrial Foregoing
+- CraftTweaker
+- ModTweaker
+- Random Things
+
+##### Scripts
+- Better with Mods - Fixed Oak door recipe (was uncraftable)
+
+
+##### Added
+- FTB Utils (will be optional once on ATL)
+- FTB Lib (will be optional once on ATL)
+
 ## Update 23rd Sept 2017
 
 ##### Updates
