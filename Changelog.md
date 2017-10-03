@@ -1,3 +1,21 @@
+## Update 3rd Oct 2017
+
+##### Updates
+- Applied Energistics 2
+- Actually Additions
+- Botania
+- Chisel
+- CTM
+- Futurepack
+- Industrial Foregoing
+- TOP Addons
+- JEI
+- Better with Mods
+
+##### Added
+- Foamfix
+
+
 ## Update 28th Sept 2017
 
 ##### Updates
