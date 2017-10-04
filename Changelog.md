@@ -1,3 +1,8 @@
+## Update 4th Oct 2017
+
+##### Removed
+- Foamfix (Makes all IE blocks transparent)
+
 ## Update 3rd Oct 2017
 
 ##### Updates
